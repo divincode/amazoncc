@@ -5,6 +5,13 @@ The tech stack which was used -
     React JS as the front end framework
     Datebase and Hosting from Google Firebase
 
+Features- 
+    User Login/Logout and Authencition
+    Addition of products to cart
+    Checkout and False payment
+    Real time rendering of the orders placed
+    Absolute Clean UI and UX 
+
 Tasks Todo -
     1.Real time payment
     2.Backend dash board and Product generator
