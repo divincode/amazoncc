@@ -1,5 +1,9 @@
 Created react app which is amazon clone -
 
+<img width="1440" alt="Screenshot 2023-05-06 at 10 50 33 AM" src="https://user-images.githubusercontent.com/35135348/236601870-d04348ad-a8aa-4bf0-a5b7-44ac7d2d0ef7.png">
+
+
+
 
 It is deployed on the following link do check out - https://clone-8b451.web.app/
 
